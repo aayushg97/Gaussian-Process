@@ -43,3 +43,9 @@ In Bayesian language, this is the posterior predictive distribution.
 The diagonal of the posterior predictive matrix $K_{te} − K_{te,tr}K_{tr}^{−1} K_{tr,te}$ gives the conditional variances of the test responses given $X_{tr}$, $X_{te}$, and $y_{tr}$.
 
 Following is a plot showing the predicted (posterior mean) temperature at all points in a rich grid of test latitudes and longitudes within the range found in the training set. 
+
+![](images/q6a.png)
+
+Following is a plot showing the standard deviation of predicted temperature at all points
+
+![](images/q6b.png)
