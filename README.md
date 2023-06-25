@@ -46,6 +46,8 @@ Following is a plot showing the predicted (posterior mean) temperature at all po
 
 ![](images/q6a.png)
 
-Following is a plot showing the standard deviation of predicted temperature at all points
+Another plot showing the standard deviation of the prediction at all points in the grid along with the locations of the stations found in the training set.
 
 ![](images/q6b.png)
+
+It can be observed from the plot above that predictions at points closer to the training points have low standard deviation and predictions at points far from the training points have high standard deviation. This implies that standard deviation increases as the distance from training points increases.
